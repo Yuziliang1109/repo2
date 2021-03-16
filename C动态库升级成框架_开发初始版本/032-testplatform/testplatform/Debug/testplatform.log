@@ -1,0 +1,7 @@
+﻿  demo01_testplatform.c
+D:\BaiduNetdiskDownload\03 C++基础入门\课件+源码\c++基础day08\源码\C动态库升级成框架_开发初始版本\C动态库升级成框架_开发初始版本\032-testplatform\testplatform\demo01_testplatform.c(71,45): warning C4047: “函数”:“unsigned char *”与“int (__cdecl *)(unsigned char *,int,unsigned char *,int *)”的间接级别不同
+D:\BaiduNetdiskDownload\03 C++基础入门\课件+源码\c++基础day08\源码\C动态库升级成框架_开发初始版本\C动态库升级成框架_开发初始版本\032-testplatform\testplatform\demo01_testplatform.c(71,36): warning C4024: “cltSocketSendAndEnc2”: 形参和实参 2 的类型不同
+D:\BaiduNetdiskDownload\03 C++基础入门\课件+源码\c++基础day08\源码\C动态库升级成框架_开发初始版本\C动态库升级成框架_开发初始版本\032-testplatform\testplatform\demo01_testplatform.c(71,50): warning C4047: “函数”:“int”与“unsigned char [2048]”的间接级别不同
+D:\BaiduNetdiskDownload\03 C++基础入门\课件+源码\c++基础day08\源码\C动态库升级成框架_开发初始版本\C动态库升级成框架_开发初始版本\032-testplatform\testplatform\demo01_testplatform.c(71,47): warning C4024: “cltSocketSendAndEnc2”: 形参和实参 3 的类型不同
+D:\BaiduNetdiskDownload\03 C++基础入门\课件+源码\c++基础day08\源码\C动态库升级成框架_开发初始版本\C动态库升级成框架_开发初始版本\032-testplatform\testplatform\demo01_testplatform.c(71,52): warning C4020: “cltSocketSendAndEnc2”: 实参太多
+  testplatform.vcxproj -> D:\BaiduNetdiskDownload\03 C++基础入门\课件+源码\c++基础day08\源码\C动态库升级成框架_开发初始版本\C动态库升级成框架_开发初始版本\032-testplatform\Debug\testplatform.exe
