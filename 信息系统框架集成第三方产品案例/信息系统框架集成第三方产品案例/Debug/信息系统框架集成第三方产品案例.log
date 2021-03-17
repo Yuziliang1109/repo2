@@ -1,0 +1,67 @@
+﻿  Cube.cpp
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cube.h(6,6): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cube.h(13,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+  Cylinder.cpp
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cylinder.h(6,10): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cylinder.h(12,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+  mainclass_改进.cpp
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cube.h(6,6): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cube.h(13,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Sphere.h(6,8): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Sphere.h(11,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cylinder.h(6,10): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cylinder.h(12,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\mainclass_改进.cpp(11,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\mainclass_改进.cpp(17,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\mainclass_改进.cpp(27,11): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(15): message : 编译器已在此处生成“Shape::~Shape”
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+  mainclass_表面积和体积.cpp
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cube.h(6,6): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cube.h(13,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Sphere.h(6,8): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Sphere.h(11,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cylinder.h(6,10): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Cylinder.h(12,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\mainclass_表面积和体积.cpp(11,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\mainclass_表面积和体积.cpp(17,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Sphere.cpp
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Sphere.h(6,8): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Sphere.h(11,2): error C2248: “Shape::~Shape”: 无法访问 private 成员(在“Shape”类中声明)
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(8): message : 参见“Shape::~Shape”的声明
+D:\Office\Cpp\信息系统框架集成第三方产品案例\信息系统框架集成第三方产品案例\Shape.h(5): message : 参见“Shape”的声明
+  正在生成代码...
