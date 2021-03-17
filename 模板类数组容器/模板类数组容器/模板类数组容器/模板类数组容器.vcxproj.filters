@@ -23,7 +23,7 @@
     <ClCompile Include="MyVector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="MyVector_test.cpp">
+    <ClCompile Include="MyVector_test2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
